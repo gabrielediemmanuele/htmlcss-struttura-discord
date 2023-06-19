@@ -82,7 +82,7 @@ header {
 
 /*section 4*/
 .green-block {
-  width: 1100px;
+  width: 1200px;
   height: 800px;
   background-color: #228b22;
   margin: auto;
@@ -100,7 +100,7 @@ header {
 }
 
 .salmon-block {
-  width: 300px;
+  width: 390px;
   height: 600px;
   background-color: #f08080;
   border: 1px dashed rgb(255, 255, 255);
@@ -111,4 +111,39 @@ header {
   height: 600px;
   background-color: #20b2aa;
   border: 1px dashed rgb(255, 255, 255);
+}
+/*Section 6 - Foooter*/
+/* footer {
+    background-color: #23272a;
+    display: flex;
+    min-height: 25px;
+  } */
+
+footer {
+  border-top: white 1px solid;
+}
+
+.x4-container {
+  background-color: #23272a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.footer-bar {
+  width: 1200px;
+  height: 50px;
+  margin: 30px 0px 0px 0px;
+  display: flex;
+  background-color: #7fffd4;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px dashed black;
+}
+
+.button {
+  background-color: #f08080;
+  border: 1px dashed black;
+  padding: 5px 10px;
 }

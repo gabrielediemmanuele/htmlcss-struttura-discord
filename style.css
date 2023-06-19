@@ -3,6 +3,13 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+
+:root {
+  --primary-color: #d3d3d3;
+  --secondary-color: #ffffff;
+  --third-color: #23272a;
+}
+
 /* header css*/
 header {
   background-color: #add8e6;
@@ -41,5 +48,28 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  border: 1px dashed black;
+}
+
+/*section 1*/
+.x1-container {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px auto;
+}
+
+.lightpink-block {
+  width: 450px;
+  height: 400px;
+  background-color: #ee82ee;
+  border: 1px dashed black;
+}
+
+.lightblue-block {
+  width: 750px;
+  height: 400px;
+  background-color: #82b6ee;
   border: 1px dashed black;
 }

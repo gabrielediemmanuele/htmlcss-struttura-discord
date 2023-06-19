@@ -112,13 +112,8 @@ header {
   background-color: #20b2aa;
   border: 1px dashed rgb(255, 255, 255);
 }
-/*Section 6 - Foooter*/
-/* footer {
-    background-color: #23272a;
-    display: flex;
-    min-height: 25px;
-  } */
 
+/*Section 6 - Foooter*/
 footer {
   border-top: white 1px solid;
 }

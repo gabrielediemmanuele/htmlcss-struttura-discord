@@ -4,12 +4,6 @@ body {
   box-sizing: border-box;
 }
 
-:root {
-  --primary-color: #d3d3d3;
-  --secondary-color: #ffffff;
-  --third-color: #23272a;
-}
-
 /* header css*/
 header {
   background-color: #add8e6;
@@ -72,4 +66,14 @@ header {
   height: 400px;
   background-color: #82b6ee;
   border: 1px dashed black;
+}
+
+/*section 2*/
+.x2-container {
+  background-color: #c4c4c4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px auto;
+  padding: 50px 0 50px 0;
 }

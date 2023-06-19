@@ -10,10 +10,10 @@ header {
   min-height: 25px;
 }
 
-.container {
+.nav-container {
   width: 1200px;
   height: 20px;
-  margin: 20px 60px;
+  margin: 20px auto;
   display: flex;
   background-color: #daa520;
   justify-content: space-between;
@@ -28,3 +28,18 @@ header {
 }
 
 /* front section css */
+.x-container {
+  background-color: #00008b;
+  display: flex;
+}
+
+.pink-block {
+  width: 800px;
+  height: 400px;
+  background-color: #ee82ee;
+  margin: 50px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px dashed black;
+}

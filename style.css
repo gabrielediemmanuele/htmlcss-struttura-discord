@@ -98,3 +98,17 @@ header {
   margin: 0;
   padding: 50px 0 50px 0;
 }
+
+.salmon-block {
+  width: 300px;
+  height: 600px;
+  background-color: #f08080;
+  border: 1px dashed rgb(255, 255, 255);
+}
+
+.turquoise-block {
+  width: 200px;
+  height: 600px;
+  background-color: #20b2aa;
+  border: 1px dashed rgb(255, 255, 255);
+}

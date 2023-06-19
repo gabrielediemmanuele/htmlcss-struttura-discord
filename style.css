@@ -79,3 +79,12 @@ header {
 }
 
 /*section 3 like section 1*/
+
+/*section 4*/
+.green-block {
+  width: 1100px;
+  height: 800px;
+  background-color: #228b22;
+  margin: auto;
+  border: 1px dashed black;
+}

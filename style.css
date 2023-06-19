@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* header css*/
+header {
+  background-color: #add8e6;
+  display: flex;
+  min-height: 25px;
+}
+
+.container {
+  width: 1200px;
+  height: 20px;
+  margin: 20px 60px;
+  display: flex;
+  background-color: #daa520;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px dashed black;
+}
+
+.block2 {
+  width: 50%;
+  border: 1px dashed black;
+  text-align: center;
+}
+
+/* front section css */
